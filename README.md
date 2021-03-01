@@ -1,4 +1,4 @@
-# CPP
+# CPP :dart:
 
 Collection of various algorithms, codes and solutions to questions in mathematics, machine learning, computer science, statistics, etc. implemented in C/Java/Python for educational purposes.
 ## Overview
