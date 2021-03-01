@@ -44,4 +44,4 @@ Hence, one may find more than one implementation for the same objective but usin
 - Cracking the Coding Interview 189 Programming Questions and Solutions
 
 ## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-This repository is released under the MIT license. In short, this means you are free to use this software in any personal, open-source or commercial projects. Attribution is optional but appreciated.
+This repository is released under the MIT license. 
