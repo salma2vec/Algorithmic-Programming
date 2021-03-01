@@ -1,4 +1,4 @@
-# CPP :dart:
+# Competitive-Programming-Resources Library :dart:
 
 Collection of various algorithms, codes and solutions to questions in mathematics, machine learning, computer science, statistics, etc. implemented in C/Java/Python for educational purposes.
 ## Overview <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -8,7 +8,7 @@ The algorithms (will) span a variety of topics from computer science, linear alg
 The implementations and the associated documentation are meant to provide a learning resource. 
 Hence, one may find more than one implementation for the same objective but using a different algorithm strategies and optimizations.
 
-## Platforms :computer:
+## Platforms for Practice :computer:
 
 -[GeeksforGeeks](https://practice.geeksforgeeks.org)
 
@@ -17,6 +17,14 @@ Hence, one may find more than one implementation for the same objective but usin
 -[CodeChef](https://www.codechef.com/problems)
 
 -[leetcode](https://leetcode.com/problemset/all)
+
+-[Codeforces](http://codeforces.com/contests)
+
+-[TopCoder](https://www.topcoder.com)
+
+-[HackerEarth](https://www.hackerearth.com/challenges/)
+
+-[SPOJ](https://www.spoj.com/users/)
 
 -[ProjectEuler](https://projecteuler.net/archives)
 
@@ -33,6 +41,7 @@ Hence, one may find more than one implementation for the same objective but usin
 - Introduction To Algorithms By Thomas H. Cormen
 - Java: The Complete Reference By Herbert Schildt
 - Object Oriented Programming with C++ by E Balaguruswamy
+- Cracking the Coding Interview 189 Programming Questions and Solutions
 
 ## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 This repository is released under the MIT license. In short, this means you are free to use this software in any personal, open-source or commercial projects. Attribution is optional but appreciated.
