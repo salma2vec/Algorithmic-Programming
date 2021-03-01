@@ -4,8 +4,8 @@ Collection of various algorithms, codes and solutions to questions in mathematic
 ## Overview
 
 I use this repository to store the solutions of problems which I solve from various online judges. I primarily use JAVA & C to solve the problems.
-The algorithms span a variety of topics from computer science, mathematics and statistics, data science, machine learning etc.
-The implementations and the associated documentation are meant to provide a learning resource for students. 
+The algorithms span a variety of topics from computer science, linear algebra, mathematics and statistics, data science, machine learning etc.
+The implementations and the associated documentation are meant to provide a learning resource. 
 Hence, one may find more than one implementation for the same objective but using a different algorithm strategies and optimizations.
 
 ## Platforms :computer:
@@ -36,3 +36,5 @@ Hence, one may find more than one implementation for the same objective but usin
 - Java: The Complete Reference By Herbert Schildt
 - Object Oriented Programming with C++ by E Balaguruswamy
 
+## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This repository is released under the MIT license. In short, this means you are free to use this software in any personal, open-source or commercial projects. Attribution is optional but appreciated.
