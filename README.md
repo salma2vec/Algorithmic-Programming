@@ -2,7 +2,7 @@
 
 Collection of various algorithms, codes and solutions to questions in mathematics, machine learning, computer science, statistics, etc. implemented in C/Java/Python for educational purposes.
 ## Overview <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<img align="right" height="193px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="198px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 I will be using this repository to store the solutions of problems which I solve from various online judges. I primarily use JAVA & C to solve the problems.
 The algorithms (will) span a variety of topics from computer science, linear algebra, mathematics and statistics, data science, machine learning etc.
 The implementations and the associated documentation are meant to provide a learning resource. 
@@ -34,7 +34,7 @@ Hence, one may find more than one implementation for the same objective but usin
 
 
 <p align="center">
-    <a href="https://www.hackerrank.com/Salma">
+    <a href="https://www.hackerrank.com/salmasaa02">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
     <br><h2 align = "center">Solutions to HackerRank problems.</h2>
