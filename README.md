@@ -44,7 +44,7 @@ Hence, one may find more than one implementation for the same objective but usin
 * [30 Days of Code](#30-days-of-code)
 * Algorithms
 * Data Structures
-* [Problem Solving](#general-programming)
+* [Problem Solving](#problem-solving)
 * Java
 * Python
 
