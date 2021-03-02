@@ -117,7 +117,7 @@ Solutions are coded using Java 8, C, Python 3.6.
 - Introduction To Algorithms By Thomas H. Cormen
 - Java: The Complete Reference By Herbert Schildt
 - Object Oriented Programming with C++ by E Balaguruswamy
-- Cracking the Coding Interview 189 Programming Questions and Solutions
+- Cracking the Coding Interview: 189 Programming Questions and Solutions
 
 ## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 This repository is released under the MIT license. 
