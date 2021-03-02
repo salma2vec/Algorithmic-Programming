@@ -45,8 +45,8 @@ Hence, one may find more than one implementation for the same objective but usin
 * Algorithms
 * Data Structures
 * [Problem Solving](#general-programming)
-* [Java](#java)
-* [Python](#python)
+* Java
+* Python
 
 Solutions are coded using Java 8, C, Python 3.6.
 
@@ -73,7 +73,7 @@ Solutions are coded using Java 8, C, Python 3.6.
 |  16 | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) |   30   | Solution |
 |  17 | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)                             |   30   | Solution                      |
 
-# General Programming
+# Problem Solving
 
 |          Subdomain          |                                                           Challenge                                                          | Points |                                                                                        Solution                                                                                       |
 |:---------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
