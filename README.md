@@ -42,8 +42,8 @@ Hence, one may find more than one implementation for the same objective but usin
 
 * [10 Days of Statistics](#10-days-of-statistics)
 * [30 Days of Code](#30-days-of-code)
-* [Algorithms](#algorithms)
-* [Data Structures](#data-structures)
+* Algorithms
+* Data Structures
 * [Problem Solving](#general-programming)
 * [Java](#java)
 * [Python](#python)
