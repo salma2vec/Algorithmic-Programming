@@ -6,7 +6,6 @@ Collection of various algorithms, codes and solutions to questions in mathematic
 I will be using this repository to store the solutions of problems which I solve from various online judges. I primarily use JAVA & C to solve the problems.
 The algorithms (will) span a variety of topics from computer science, linear algebra, mathematics and statistics, data science, machine learning etc.
 The implementations and the associated documentation are meant to provide a learning resource. 
-Hence, one may find more than one implementation for the same objective but using a different algorithm strategies and optimizations.
 
 ## Platforms for Practice :computer:
 
