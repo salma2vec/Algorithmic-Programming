@@ -1,6 +1,6 @@
 # Competitive-Programming-Resources Library :dart:
 
-Collection of various algorithms, codes and solutions to questions in mathematics, machine learning, computer science, statistics, etc. implemented in C/Java/Python for educational purposes.
+Collection of various algorithms, codes and solutions to questions in mathematics, computer science, statistics, etc. implemented in C++/Java/Python for educational purposes.
 ## Overview <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img align="right" height="198px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 I will be using this repository to store the solutions of problems which I solve from various online judges. I primarily use JAVA & C++ to solve the problems.
