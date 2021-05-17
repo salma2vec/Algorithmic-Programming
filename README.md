@@ -46,7 +46,7 @@ The implementations and the associated documentation are meant to provide a lear
 * Java
 * Python
 
-Solutions are coded using Java 8, C, Python 3.6.
+Solutions are coded using Java 8, C++, Python 3.6.
 
 
 ## References :scroll:
