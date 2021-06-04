@@ -8,27 +8,31 @@ The implementations and the associated documentation are meant to provide a lear
 
 ## Platforms for Practice :computer:
 
--[GeeksforGeeks](https://practice.geeksforgeeks.org)
+- [LearnCPP](https://www.learncpp.com/)
 
--[HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit)
+- [Hackr](https://hackr.io/) (**General Resources for Programming, Data Science, DevOps, Design and more**)
 
--[CodeChef](https://www.codechef.com/problems)
+- [GeeksforGeeks](https://practice.geeksforgeeks.org)
 
--[leetcode](https://leetcode.com/problemset/all)
+- [HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit)
 
--[Codeforces](http://codeforces.com/contests)
+- [CodeChef](https://www.codechef.com/problems)
 
--[TopCoder](https://www.topcoder.com)
+- [leetcode](https://leetcode.com/problemset/all)
 
--[HackerEarth](https://www.hackerearth.com/challenges/)
+- [Codeforces](http://codeforces.com/contests)
 
--[SPOJ](https://www.spoj.com/users/)
+- [TopCoder](https://www.topcoder.com)
 
--[ProjectEuler](https://projecteuler.net/archives)
+- [HackerEarth](https://www.hackerearth.com/challenges/)
 
--[PepCoding](https://www.pepcoding.com/resources)
+- [SPOJ](https://www.spoj.com/users/)
 
--[A2 Online Judge](https://a2oj.com/ps)
+- [ProjectEuler](https://projecteuler.net/archives)
+
+- [PepCoding](https://www.pepcoding.com/resources)
+
+- [A2 Online Judge](https://a2oj.com/ps)
 
 
 <p align="center">
