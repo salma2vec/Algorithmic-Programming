@@ -1,4 +1,4 @@
-# Competitive Programming Resources Library :dart:
+# Programming Resources Library :dart:
 
 Collection of various algorithms, codes and solutions to questions in mathematics, computer science, statistics, etc. implemented in C++/Java/Python for educational purposes.
 ## Overview <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
