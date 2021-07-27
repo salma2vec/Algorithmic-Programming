@@ -13,8 +13,7 @@ class Solution {
        Arrays.sort(nums1);
        Arrays.sort(nums2);
        
-       int i=0;
-       int j=0;
+       int i= 0, j=0;
   
        List<Integer> res = new ArrayList<Integer>();
        while (i<nums1.length && j<nums2.length) {
