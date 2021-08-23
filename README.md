@@ -1,5 +1,9 @@
 # Programming Resources Library :dart:
 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+
+
 Collection of various algorithms, codes and solutions to questions in mathematics, computer science, statistics, etc. implemented in C++/Java/Python for educational purposes.
 ## Overview <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img align="right" height="198px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
